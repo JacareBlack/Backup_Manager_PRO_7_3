@@ -1,2 +1,3 @@
-# Backup_Manager_PRO_7_3
-O Backup Manager PRO 7.3 automatiza backups via PowerShell e GUI. Oferece gestão de perfis em CSV, sincronização com Robocopy, agendamento por tarefas do Windows e opção de desligar após a conclusão
+BACKUP MANAGER PRO 7.3 - VERSÃO ULTRA RESILIENTE V2
+Ajustado - Layout corrigido e migração automática de perfis
+CORREÇÃO V2: Tratamento definitivo de caminhos raiz e aspas no Robocopy
